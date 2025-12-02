@@ -1,0 +1,4 @@
+python-telegram-bot==21.7
+yookassa==2.4.0
+ollama>=0.6.0
+python-dotenv==1.0.0
